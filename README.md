@@ -1,6 +1,8 @@
 # Co-training-for-NIH-Pancreas-Segmentation
-<3D Semi-Supervised Learning with Uncertainty-Aware Multi-View Co-Training
-![image](https://user-images.githubusercontent.com/37214771/122636787-a6f0fc80-d11d-11eb-81b2-7d8703e3567b.png)>
+<3D Semi-Supervised Learning with Uncertainty-Aware Multi-View Co-Training>
+
+![image](https://user-images.githubusercontent.com/37214771/122636822-d0aa2380-d11d-11eb-995b-6d104d118453.png)
+
 
 not official code
 
